@@ -9,6 +9,6 @@ To use the API, you must launch a server and send a GET request.
 
 ## API docs
 
-To retrieve the API docs, you must launch the server send this
+To retrieve the API docs, you must launch the server and send this
 
 GET ```localhost:8080/v2/api-docs```
